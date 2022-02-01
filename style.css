@@ -1,0 +1,23 @@
+#mapid { 
+  height: 360px; 
+  width: 400px; 
+  position: relative;
+  text-align: center;
+  }
+
+button {
+  border: none;
+  background-color: rgb(40, 169, 243);
+  height: 40px;
+  width: 100px;
+}
+
+button:hover {
+  border: solid black 1px;
+  background-color: rgb(13, 117, 236);
+}
+
+html {
+  min-height: 200%;
+  background-image: 
+}
